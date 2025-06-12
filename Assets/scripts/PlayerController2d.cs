@@ -53,7 +53,7 @@ public class PlayerController2d : MonoBehaviour
                 fireF();
             }
         }else{
-            koeffitsienDvijeniya=(int) Mathf.Sign((enemy.position-transform.position).x);В режиме автоматического огня игрок движется только лицом к монстру.
+            koeffitsienDvijeniya=(int) Mathf.Sign((enemy.position-transform.position).x);//В режиме автоматического огня игрок движется только лицом к монстру.
             moveInput = new Vector2(moveX, moveY).normalized;
             transform.localScale=new Vector2(2.5f*koeffitsienDvijeniya  ,2.5f);
             if(isHaveBullets&&ready){
