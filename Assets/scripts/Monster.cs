@@ -15,11 +15,13 @@ public class Monster : MonoBehaviour
     Vector2 dir;
     float maxHP;
     PlayerController2d pc;
+    Score score;
     // Start is called before the first frame update
     void Start()
     {
         rb=GetComponent<Rigidbody2D>();
         playertransform=GameObject.Find("player").transform;
+        score=GameObject.Find("Canvas/Score").GetComponent<Score>();
         maxHP=hitPoint;
         pc=playertransform.GetComponent<PlayerController2d>();
     }
@@ -55,6 +57,7 @@ public class Monster : MonoBehaviour
         }
     }
     void umer(){
+        score.setScore(35);
         pc.notAutoFire();
         Destroy(gameObject);
         Instantiate(bonuses[Random.Range(0,bonuses.Length)],transform.position,Quaternion.identity);
