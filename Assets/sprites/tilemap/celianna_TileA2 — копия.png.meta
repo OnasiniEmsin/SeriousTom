@@ -1,0 +1,4359 @@
+fileFormatVersion: 2
+guid: 4a1312a293846494d9885ecdb1ec6f9d
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b71ed704452aaa840896a603dc313b55
+      internalID: -983971474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaf9e4a0aaa466439e325bda11b9319
+      internalID: -610522086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78100a13741ff48807283c31f5dcfa
+      internalID: 274605444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579359785ef6c1847a6379cec6e7663d
+      internalID: 1421502507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4218b908e7e60a5468d4dccd0bfa0f68
+      internalID: 391898212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c11a2d194aa8f1445abacb4fb6467ee9
+      internalID: 1607257538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4153c7497dae6ea44a274cdc6c6123a9
+      internalID: -1884904399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3100f0bbf16fe0e44bb9b94a16a72939
+      internalID: 802189229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62937b75ba6544a419ac0803422e853d
+      internalID: -879090828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e51c83f4014bf5a40a3a0119e8ecabb0
+      internalID: -1235634200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7f4d292bcfa66d4db05b19f35723b99
+      internalID: -1296871369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1311cfcf27f1d9d4c8668e20f5c0dcf0
+      internalID: -274989860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 103907b8c394b1947946c1c318dbbd6a
+      internalID: 1349739619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c34cd65d147ba184cb750f72e12614aa
+      internalID: 1310684751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64c88058c1f4acb458867c010fdb0a73
+      internalID: 1315552851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 352
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b46982e0d2d276e45814f12a185c176f
+      internalID: -1554704782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4220814561dd05443b578bc186d74218
+      internalID: -2017966403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45b64eb3c19d2de45a7e98ea6835937a
+      internalID: -1395838401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1627bdb663b33ad488f3b73e8c22cb59
+      internalID: 424395747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e515c0796c35974b9fa7e3675fbaeff
+      internalID: 1310528427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 320
+        width: 32
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5281596, y: 0.4718418}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83ef15586fae2a7458890cd7461a390b
+      internalID: -753090221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f32f1e436a716d6409bba069a16c69d3
+      internalID: 1913154199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f08c14ae9b4194a8a414b27622c226
+      internalID: -1285939783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8faf3bdc9ee482d409b55d6a545a8b28
+      internalID: -36796148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 475da0f7725b2df4893105b3201e3ac8
+      internalID: -88145295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce36747a567dec449b5c75f886e82c56
+      internalID: 115789220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27edb779e302ce14eacb802dd37d72d2
+      internalID: -1389290881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84eafa52609f82b4cac784756a4e3fe4
+      internalID: -148686188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9329fb114cb01c448b1d626142929249
+      internalID: 402537141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba156035ce55123419799547e7c22e8b
+      internalID: 815254272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1f6293c8c7121e439a1102bb3f478d7
+      internalID: 1934276256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 320
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3289ee3b9b09f7a418ecc221f319e6d4
+      internalID: -1544594044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9134c8df6fb74f742ac90fead88f044d
+      internalID: -1137652420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2107a72cdf54c5b40b425d2106ef600e
+      internalID: -827917121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acc89cedca032e4c9c670cd795c63c0
+      internalID: -1288837102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d266cb2ec8d83b741ba9ba1b97a000ef
+      internalID: -2008033911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 304
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97c23affd74aaaf41918ad8e9c51033a
+      internalID: -561102052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 890575d8689627947a78208eec1f0a14
+      internalID: 1142276291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be07afaf701fe3e44a9892cd5c4f81c8
+      internalID: -1745305543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759a73f75609f3b4ca3ce5ccec4c3289
+      internalID: 1916809756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 44797b136954cae49b64078eae69d576
+      internalID: -1681108595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9fe6451936d1b349bdd21a239cc40a5
+      internalID: 1721272504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb87f305bdb036f4d8c649ff1bea7761
+      internalID: -2023891297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f63ba63c1346994b83db8ecec2fc3c7
+      internalID: 1406820312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6d55e063a924e543a41cb59a1ca9614
+      internalID: 1112046604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4294d6daf2cf0884bbe44b3d1e6e8ecd
+      internalID: 1077398869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165ab0d6c568355408bb703466b8ddbd
+      internalID: 279630783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 288
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feba3ac06e911c64a812ad94aae0de17
+      internalID: 1179082533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93f3862fe6df1e04bb777c40d1bb04ab
+      internalID: -1999629255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78f6675c9e1d653449c443e13d956cf5
+      internalID: -1708850219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5d4382e2d67ae44a25bc63e9f3c306
+      internalID: 56139581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ca4d10a74a4cd94ebf9d844918f2ea5
+      internalID: 1420399593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79b269f85acc5844a9c1daa646a5a6d2
+      internalID: -1171333672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_53"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 469e1a0b479e7d242a792582744c7746
+      internalID: -530966499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_54"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21744a57270279b45a18f82df192ae95
+      internalID: 1501052390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_55"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4289be5c8db4cb438986e5484f51169
+      internalID: -1368431908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_56"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b4ddfa8e0ae9254c80f07ca2454dd19
+      internalID: 1100036971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_57"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59f677bffad4e8b4f871891163a3d113
+      internalID: 1135323043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_58"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbf5ced40d5ad947af9d6981725be4e
+      internalID: 1800764187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_59"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5faa489a505b27b4488fc8965bd255e8
+      internalID: 2073239765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_60"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f555865a5d0f0141ab09f46924f7c36
+      internalID: -1586318760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_61"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab2ee166c20b7f4ba531000e12873eb
+      internalID: -1823430611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_62"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb64784e0d100324bb6eb52cf4d2fb41
+      internalID: -1151005385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_63"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 256
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60f9d015958c4194cafbe1f735532c07
+      internalID: -1294977144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_64"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4d06bcb443ea7c4a9c99e4455baa2ad
+      internalID: 964846296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_65"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1329be5434f82748978139357414e29
+      internalID: -1423151490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_66"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06e37616d43389c448d19e873a83a41f
+      internalID: 1892553034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_67"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5371676c1ea9744438c84d190151477f
+      internalID: -327856281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_68"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0525de54b0b0748b77c160de0acc5d
+      internalID: -1598299720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_69"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d5af07b5e2a9bc408a3a1f80147653c
+      internalID: 131622384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_70"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4ce1a5b4f6cd764fa2677462337307c
+      internalID: 1183213090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_71"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad2018025d9a41248a8a944fbccb2c43
+      internalID: 1381889244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_72"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df465055c472acd49983277ffe44cb43
+      internalID: 760464263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_73"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 751a6bdaf816fba4688f2fca287dbc9c
+      internalID: 78425320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_74"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 318da675eede9b54cb8212cea86d9551
+      internalID: 1416371631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_75"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 955e1b1f92e585746947e7ec4b2786c9
+      internalID: -9460202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_76"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f042e6c304ba649458d704233dda20a1
+      internalID: 912274537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_77"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80f84ed93b2a5f4438171bf8465d47f2
+      internalID: 983310600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_78"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc49c5effe137434e8ac2fd9668dff95
+      internalID: -2139900624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_79"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 224
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d2c9c297674fca4e8c4c103470e9e64
+      internalID: 110773106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_80"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5335b03b438278469f7963c635c5604
+      internalID: 92805788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_81"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8539b76d3d298ad478a79aa68cf98779
+      internalID: -499231936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_82"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e82fda37c67be5a4db684a176800c239
+      internalID: -1020436891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_83"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 452f2917e37b64f40a53faa61d1df69b
+      internalID: 1147979451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_84"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec9627c5fecee95479210b597cd67296
+      internalID: -1285612179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_85"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39a49adfd7a8d2a44b7259fe858baa74
+      internalID: -930899866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_86"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc2687be4e7c1094fb84f6c3882f8186
+      internalID: 399722328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_87"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4061ec476e11c7e41bf72a1420485b9c
+      internalID: -742745379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_88"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6238fcf6b637d42b5be51c2f9b8f92
+      internalID: -45261541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_89"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f09595220b6a8648adf92a2def4561f
+      internalID: 1174198450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_90"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7879df725522b1045b19bf373d22f524
+      internalID: 1001874548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_91"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7ceb6478545c2f4da18a8e46a16ca7f
+      internalID: -552106618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_92"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1142fa23573d54e8b4bfbe67c27c7e
+      internalID: 1223785140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_93"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c4fd4594a22c8e4dafe3c647243b9dd
+      internalID: 519282555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_94"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48c5e7bc38f4dc740a603c04de3302ad
+      internalID: -533141118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_95"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 192
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f77039fe422e6247b82690c712a65ef
+      internalID: -1400715002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_96"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4e4880e2bead248a2ea088b9440304
+      internalID: 2000311699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_97"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f497809459d50a347a2139cc74391e75
+      internalID: 616638370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_98"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9ee9f097f1c4a24093896f0112e924b
+      internalID: 1165458578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_99"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59ab45e30c5a6d34da4f66bcff706452
+      internalID: 1648468751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_100"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647dbaddbffc97341bf12a4dfe4097a1
+      internalID: 999651119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_101"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c91a9cb0112fd174785d098f15e646c8
+      internalID: -1075307753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_102"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd461e5bc737ef9418ed0f38e0ac097d
+      internalID: -1593261554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_103"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d131827c335def54186cc971793188ee
+      internalID: -909248272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_104"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0da50c206ce40184ca6e9418b34a8872
+      internalID: -818589583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_105"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0be6d050672b28c47b9a5365870b5ae6
+      internalID: 851467741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_106"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de9bab9751af9e64c9175556e035b3b9
+      internalID: -437667650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_107"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32dfedbc1f5b65747a049f85f091e40e
+      internalID: -1240018870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_108"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c338f7b7b0d8af440832e25412ab92af
+      internalID: 1989215038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_109"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23c0ecc4aed35c443a85afbed266c0cd
+      internalID: -744226358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_110"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88b21825819d94b4aaa6536d722c3e46
+      internalID: -1251180811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_111"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 160
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 680dd59be39c7dd4192e8f149add5724
+      internalID: -1005063164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_112"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9d883dd8db0be440a918eaee5d76373
+      internalID: -1573313795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_113"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bc548c1f9b827442b8a0cff0f88070a
+      internalID: 1418640173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_114"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef43b01dce5952b489e68ba0bff64cb3
+      internalID: -144215383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_115"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 586d0c480b692524192b8009cef534f3
+      internalID: -1600337200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_116"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd8fd3002d4aad64ba1dde9ec4e0cf1b
+      internalID: -1482905288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_117"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c0237e759278c4b9384e2ce8f6d87f
+      internalID: -965763897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_118"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 225e566d9f9c4b44d865fa62f0f909cb
+      internalID: -958268819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_119"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65737258e18ff68468cab8a3fb772251
+      internalID: 516274609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_120"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aaba847ef1eb1a14988d1e46f4fb91e5
+      internalID: 1123323679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_121"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f9a1853622691044a21655a7f586f52
+      internalID: -900554040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_122"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af99954b7b995244c8fc21131ca1bbcf
+      internalID: 2019589288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_123"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1963bdeb6a1d82945b2c05a4fb31c562
+      internalID: 265364797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_124"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42980cdc48c55d54aa8c9327091a4bad
+      internalID: 570463714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_125"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9b07d5dcdbb344f982e8f29a4f57a7
+      internalID: -1934316532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_126"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c86287b345d0a4fb4d0b5c88b52d91
+      internalID: -831642839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_127"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 128
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940cc78e2f8097a45aa9a13618aac48a
+      internalID: 1621077415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_128"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b738205b8018e3f4aa5390e67659e132
+      internalID: -2052293366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_129"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 592c3f17e7ee55d47b9c0ab986d88d3e
+      internalID: 1931738860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_130"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b7fb5cd49b928f4eb01199ad16af845
+      internalID: 1685931578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_131"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 540409c28318c8245817671b0682c964
+      internalID: 1915765248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_132"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1add0d937c97d074db369f65ef1649a3
+      internalID: 1547323437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_133"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abced8a4722085847a5b0607470a97cb
+      internalID: -1457593718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_134"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2d16a6204b124789ea535de5e87f6
+      internalID: -749428392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_135"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 759b2905491c2c046a1c1384b9657166
+      internalID: 1965434954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_136"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811d227d6e7440249822575ddcdb464c
+      internalID: -2085192242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_137"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8fa756a2ef5084c94657af35e24b98
+      internalID: -2039440760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_138"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551019d692f1ce645b5180e4b27d0f26
+      internalID: 1798829282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_139"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 521e409295d4d5a49a3487b9911882d7
+      internalID: 1075018788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_140"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a2e18db4ab4a0547900bd05d720b44b
+      internalID: -139251398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_141"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1708a577aa5a9644295de50896bf3c67
+      internalID: -917342068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_142"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 622e1c15a1ffd5f4ea6598e865954845
+      internalID: 1806538004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_143"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 96
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69bbc08a9b2abd54a909a7f20d246a8a
+      internalID: -1129453763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_144"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3568ddf8cf1ba254096236ae7a7efc8e
+      internalID: -1528413836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_145"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b0f5df50ea73004399564f8a7f8b1b4
+      internalID: 842119349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_146"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ae72d55833baea42b36321f3d354535
+      internalID: -530190952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_147"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538dbde3ece9ba444a03eb856972536c
+      internalID: 2021812221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_148"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a12d14f3b2325b4ab0e688772519c02
+      internalID: 1960398561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_149"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a279e816c8e154445a6e46eee833f35a
+      internalID: -936010535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_150"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb20766b30fbd042ad64e405a59de16
+      internalID: -978253041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_151"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 411f7522ee3bad8468f27580745e4fca
+      internalID: 861352019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_152"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2d18af127ee8a40829fcc0613a6406
+      internalID: -354816570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_153"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dda25a7d1b95bf14e94592382e20a78f
+      internalID: -1245805412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_154"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90c6f91cd9a4aa54a8251c28f107cff2
+      internalID: -439431483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_155"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc11e7d2439783641a2683a9e5818290
+      internalID: 1284375128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_156"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b54fb3abaff3013409d8f4e01ff77d61
+      internalID: 1564617100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_157"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b86d545bb297c4245b9327797ebadfc8
+      internalID: 2064599050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_158"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d8ed0e62d787584fac4ea153486d5a1
+      internalID: -686301323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_159"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 64
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb666cf3a238c346bc0e843d028cc6a
+      internalID: 805679841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_160"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 028b9c3b5fe8f9a4099f89b67b4fa365
+      internalID: -205149318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_161"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1de5ff5401f717a4990c87fc1d4ddf5f
+      internalID: 1136248097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_162"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c9f857a1b47b354d8f15bbd0955d9bd
+      internalID: 372420662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_163"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f87546a541ccca4789cbdf65bac06c3
+      internalID: -1826476430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_164"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2299c6f52d3e89046aaa526c0c596c9f
+      internalID: -1795136554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_165"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72dab71392ac96146b0b630417908109
+      internalID: 1076097693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_166"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f1517220e5183640a0ab35275fbd589
+      internalID: 463024468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_167"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80b8922ff7616946842502b0b218a7e
+      internalID: -751918915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_168"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fdcd969afb9ee3408f0779fbf14c5b1
+      internalID: -1164508062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_169"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95adeb8bdf192eb4aac90128de130d4e
+      internalID: 1242386279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_170"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16240e6dd245f5640a07c9f817b416ea
+      internalID: 1600765201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_171"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c250326b16408042a482c4e806b6aec
+      internalID: 624474143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_172"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2363d81cf1945e240b09173735f706c2
+      internalID: 255551998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_173"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3ec537b51b82844face0e84f68b7fe7
+      internalID: 1530740770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_174"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 524d570344b0d6140905fd3cf1b346f6
+      internalID: 1795787682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_175"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d7fa177c72dfaa418cba58c5615eee4
+      internalID: 448105165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_176"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 976951b7594ab464c93f33574339c721
+      internalID: -2100826424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_177"
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe14857a6bf083748b03468113935224
+      internalID: 1891722916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_178"
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00f86fd4b68f5e74d956c62976a3a220
+      internalID: -103725139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_179"
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 010d1121ead6bb6478b763e87783f007
+      internalID: 1356609434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_180"
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6696afeff52c8247ae843edb1a2bf5f
+      internalID: 1506855568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_181"
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679f52e3caaeede4c88ee337e77e473d
+      internalID: 1022452240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_182"
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4b68eae3b421124aa61b53c5710f028
+      internalID: -521063833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_183"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9aae301f77d1a8b4b8b3577edf5feb12
+      internalID: -832719936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_184"
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f5a3461101f6f4bb5d35ec42d98e04
+      internalID: 1044885805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_185"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 915601ae4cb984d42a2ccc7f643eaa5a
+      internalID: -1104639835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_186"
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b727e14f82737ac43ac11c966a3f158d
+      internalID: -150229938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_187"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7905d5cdfea647148bb00ad728197431
+      internalID: 1612367966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_188"
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da7a23415fa18224880166f14cc2bd7c
+      internalID: 1042255600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_189"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b72109b4702e7b4eae383279dcc3a6a
+      internalID: -1847116402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_190"
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4ba8525aa384bc49942569e0362762d
+      internalID: -2136498474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_191"
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5079518816682a47a75b9ea31cecd4d
+      internalID: 883879387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_0": -983971474
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_1": -610522086
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_10": -1296871369
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_100": 999651119
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_101": -1075307753
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_102": -1593261554
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_103": -909248272
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_104": -818589583
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_105": 851467741
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_106": -437667650
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_107": -1240018870
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_108": 1989215038
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_109": -744226358
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_11": -274989860
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_110": -1251180811
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_111": -1005063164
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_112": -1573313795
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_113": 1418640173
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_114": -144215383
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_115": -1600337200
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_116": -1482905288
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_117": -965763897
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_118": -958268819
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_119": 516274609
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_12": 1349739619
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_120": 1123323679
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_121": -900554040
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_122": 2019589288
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_123": 265364797
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_124": 570463714
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_125": -1934316532
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_126": -831642839
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_127": 1621077415
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_128": -2052293366
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_129": 1931738860
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_13": 1310684751
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_130": 1685931578
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_131": 1915765248
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_132": 1547323437
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_133": -1457593718
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_134": -749428392
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_135": 1965434954
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_136": -2085192242
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_137": -2039440760
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_138": 1798829282
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_139": 1075018788
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_14": 1315552851
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_140": -139251398
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_141": -917342068
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_142": 1806538004
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_143": -1129453763
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_144": -1528413836
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_145": 842119349
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_146": -530190952
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_147": 2021812221
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_148": 1960398561
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_149": -936010535
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_15": -1554704782
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_150": -978253041
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_151": 861352019
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_152": -354816570
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_153": -1245805412
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_154": -439431483
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_155": 1284375128
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_156": 1564617100
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_157": 2064599050
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_158": -686301323
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_159": 805679841
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_16": -2017966403
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_160": -205149318
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_161": 1136248097
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_162": 372420662
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_163": -1826476430
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_164": -1795136554
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_165": 1076097693
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_166": 463024468
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_167": -751918915
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_168": -1164508062
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_169": 1242386279
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_17": -1395838401
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_170": 1600765201
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_171": 624474143
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_172": 255551998
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_173": 1530740770
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_174": 1795787682
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_175": 448105165
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_176": -2100826424
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_177": 1891722916
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_178": -103725139
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_179": 1356609434
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_18": 424395747
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_180": 1506855568
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_181": 1022452240
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_182": -521063833
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_183": -832719936
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_184": 1044885805
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_185": -1104639835
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_186": -150229938
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_187": 1612367966
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_188": 1042255600
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_189": -1847116402
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_19": 1310528427
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_190": -2136498474
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_191": 883879387
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_2": 274605444
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_20": -753090221
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_21": 1913154199
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_22": -1285939783
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_23": -36796148
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_24": -88145295
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_25": 115789220
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_26": -1389290881
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_27": -148686188
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_28": 402537141
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_29": 815254272
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_3": 1421502507
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_30": 1934276256
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_31": -1544594044
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_32": -1137652420
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_33": -827917121
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_34": -1288837102
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_35": -2008033911
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_36": -561102052
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_37": 1142276291
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_38": -1745305543
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_39": 1916809756
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_4": 391898212
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_40": -1681108595
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_41": 1721272504
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_42": -2023891297
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_43": 1406820312
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_44": 1112046604
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_45": 1077398869
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_46": 279630783
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_47": 1179082533
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_48": -1999629255
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_49": -1708850219
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_5": 1607257538
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_50": 56139581
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_51": 1420399593
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_52": -1171333672
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_53": -530966499
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_54": 1501052390
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_55": -1368431908
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_56": 1100036971
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_57": 1135323043
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_58": 1800764187
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_59": 2073239765
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_6": -1884904399
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_60": -1586318760
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_61": -1823430611
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_62": -1151005385
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_63": -1294977144
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_64": 964846296
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_65": -1423151490
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_66": 1892553034
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_67": -327856281
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_68": -1598299720
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_69": 131622384
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_7": 802189229
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_70": 1183213090
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_71": 1381889244
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_72": 760464263
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_73": 78425320
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_74": 1416371631
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_75": -9460202
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_76": 912274537
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_77": 983310600
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_78": -2139900624
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_79": 110773106
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_8": -879090828
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_80": 92805788
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_81": -499231936
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_82": -1020436891
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_83": 1147979451
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_84": -1285612179
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_85": -930899866
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_86": 399722328
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_87": -742745379
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_88": -45261541
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_89": 1174198450
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_9": -1235634200
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_90": 1001874548
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_91": -552106618
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_92": 1223785140
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_93": 519282555
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_94": -533141118
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_95": -1400715002
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_96": 2000311699
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_97": 616638370
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_98": 1165458578
+      "celianna_TileA2 \u2014 \u043A\u043E\u043F\u0438\u044F_99": 1648468751
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

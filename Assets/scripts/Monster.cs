@@ -16,9 +16,11 @@ public class Monster : MonoBehaviour
     float maxHP;
     PlayerController2d pc;
     Score score;
+    Animator animator;
     // Start is called before the first frame update
     void Start()
     {
+        animator=GetComponent<Animator>();
         rb=GetComponent<Rigidbody2D>();
         playertransform=GameObject.Find("player").transform;
         score=GameObject.Find("Canvas/Score").GetComponent<Score>();
@@ -33,12 +35,17 @@ public class Monster : MonoBehaviour
         if(dir.magnitude<=2){
             pc.setAutoFire(transform);
         }else if(dir.magnitude<=distanceOfView){
+            animator.SetBool("walking",true);
             goingToPlayer();
+        }else{
+            animator.SetBool("walking",false);
         }
 
     }
     void goingToPlayer(){
         rb.velocity = dir.normalized*moveSpeed;
+        transform.localScale=new Vector2(2.5f*Mathf.Sign(dir.x)  ,2.5f);
+
     }
     void OnTriggerEnter2D(Collider2D other)
     {

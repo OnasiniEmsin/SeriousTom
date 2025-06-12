@@ -17,18 +17,22 @@ public class PlayerController2d : MonoBehaviour
     Buttons moyaOrujiya;
     Transform enemy;
     int koeffitsienDvijeniya=1,maxHP;
-    float perezaryatkaMAgazina=.25f;
+    float perezaryatkaMAgazina=.15f;
+    Animator animator;
     void Start()
     {
+        animator=GetComponent<Animator>();
         maxHP=(int)hitPoint;
         rb = GetComponent<Rigidbody2D>();
     }
-
+    float moveX;
+    float moveY;
     void Update()
     {
         // Input olish
-        float moveX = joystick.Horizontal; 
-        float moveY = joystick.Vertical; 
+        moveX = joystick.Horizontal; 
+        moveY = joystick.Vertical; 
+        isWalking();
         if(autoFire==false){ 
             if(joystick.Horizontal>0){
                 koeffitsienDvijeniya=1;
@@ -54,6 +58,13 @@ public class PlayerController2d : MonoBehaviour
         
         
         
+    }
+    void isWalking(){
+        if(moveX!=0||moveY!=0){
+            animator.SetBool("walking",true);
+        }else{
+            animator.SetBool("walking",false);
+        }
     }
 
     void FixedUpdate()
