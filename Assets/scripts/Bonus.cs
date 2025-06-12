@@ -18,10 +18,11 @@ public class Bonus : MonoBehaviour
     }
     void OnTriggerEnter2D(Collider2D other){
         if(other.CompareTag("Player")){
-            //PlayerController2d pc=other.gameObject.GetComponent<PlayerController2d>();
+            
             InventoryUI iui=GameObject.Find("Canvas/rukzak").GetComponent<InventoryUI>();
+            
             iui.addBullet(index,bonuses);
-            //pc.addBullet(bonuses,index);
+            
             Destroy(gameObject);
         }
     }

@@ -8,17 +8,22 @@ public class PlayerController2d : MonoBehaviour
     public float moveSpeed = 5f,bulletForce=10,hitPoint=100;
     private Rigidbody2D rb;
     private Vector2 moveInput;
-    public FixedJoystick joystick;
-    public GameObject bulletPrefab;
-    public Transform firePoint;
+    public FixedJoystick joystick;//Для управления
+    public GameObject bulletPrefab;//префаб патрона
+    public Transform firePoint;//точка для появления стрелки.
     public GameObject[] Veapons; //оружия на руке игрока
-    public Image hBar;
-    public AudioSource ak;
-    bool isFiring,isHaveBullets,autoFire,ready=true;
-    Buttons moyaOrujiya;
-    Transform enemy;
-    int koeffitsienDvijeniya=1,maxHP;
-    float perezaryatkaMAgazina=.15f;
+    public Image hBar;//полоса здаровия
+    public AudioSource ak;//звук ак47
+    bool isFiring,
+            isHaveBullets,
+            autoFire,
+            ready=true;
+
+    Buttons moyaOrujiya;//переменная для оружия в руке игрока
+    Transform enemy;//переменная для ближайшего врага
+    int koeffitsienDvijeniya=1, //переменная для игрока, чтобы посмотреть влево(-1) или вправо(1)
+            maxHP;//знаменатель, чтобы найти значение healtbar.
+    float perezaryatkaMAgazina=.15f;//время между каждым выстрелом
     Animator animator;
     void Start()
     {
@@ -34,7 +39,7 @@ public class PlayerController2d : MonoBehaviour
         moveX = joystick.Horizontal; 
         moveY = joystick.Vertical; 
         isWalking();
-        if(autoFire==false){ 
+        if(autoFire==false){ //Автоматический огонь включается, когда враг находится слишком близко.
             if(joystick.Horizontal>0){
                 koeffitsienDvijeniya=1;
             }
@@ -48,7 +53,7 @@ public class PlayerController2d : MonoBehaviour
                 fireF();
             }
         }else{
-            koeffitsienDvijeniya=(int) Mathf.Sign((enemy.position-transform.position).x);
+            koeffitsienDvijeniya=(int) Mathf.Sign((enemy.position-transform.position).x);В режиме автоматического огня игрок движется только лицом к монстру.
             moveInput = new Vector2(moveX, moveY).normalized;
             transform.localScale=new Vector2(2.5f*koeffitsienDvijeniya  ,2.5f);
             if(isHaveBullets&&ready){
@@ -89,7 +94,7 @@ public class PlayerController2d : MonoBehaviour
     public void unAcFire(){
         isFiring=false;
     }
-    void fireF(){//fire function=>fireF
+    void fireF(){//fire function
         Shoot();
     }
     public void setVeapon(Buttons b){

@@ -36,7 +36,7 @@ public class InventoryUI : MonoBehaviour
         myVeaponNumber=i;
         chooseButton();
     }
-    public void deleteTheButton(Buttons b){
+    public void deleteTheButton(Buttons b){//
         knopki.Remove(b);
         pc.notHaveBullets();
         foreach (var slot in knopki)
@@ -50,13 +50,15 @@ public class InventoryUI : MonoBehaviour
                 foreach(var slot in knopki){   slot.patrony+=bulls+1;      slot.minus1();  }//но для этого должно быть какое-то оружие
         }else{
             bool isHave=false;
-                foreach(var slot in knopki){
-                    if(slot.id==slotPrefabs[index-1].GetComponent<Buttons>().id){//Здесь проводится проверка изъятого оружия.
-                        slot.patrony+=bulls+1;
-                        slot.minus1();
-                        isHave=true;
-                    }
-                } 
+
+            foreach(var slot in knopki){
+                if(slot.id==slotPrefabs[index-1].GetComponent<Buttons>().id){//Здесь проводится проверка изъятого оружия.
+                    slot.patrony+=bulls+1;
+                    slot.minus1();
+                    isHave=true;
+                }
+            } 
+            
             if(isHave==false) 
             {
                 addBattn(index-1,true);//Если приобретенного оружия не существует, будет добавлено новое.
@@ -66,6 +68,7 @@ public class InventoryUI : MonoBehaviour
     void addBattn(int i,bool isnew){//Add Button => добавляет новую кнопку
         slotPrefab=slotPrefabs[i];
         Buttons battn = Instantiate(slotPrefab, slotParent).GetComponent<Buttons>();
+
         battn.setNumber(i);
         knopki.Add(battn);
         battn.setInventory(this);
