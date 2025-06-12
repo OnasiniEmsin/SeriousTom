@@ -9,6 +9,7 @@ public class Monster : MonoBehaviour
     public int distanceOfView=10,moveSpeed;
     public float hitPoint=10;
     public Image hBar;
+    public GameObject audio;
     public GameObject[] bonuses;
     
     Rigidbody2D rb;
@@ -43,6 +44,7 @@ public class Monster : MonoBehaviour
 
     }
     void goingToPlayer(){
+        audio.active=true;
         rb.velocity = dir.normalized*moveSpeed;
         transform.localScale=new Vector2(2.5f*Mathf.Sign(dir.x)  ,2.5f);
 

@@ -13,6 +13,7 @@ public class PlayerController2d : MonoBehaviour
     public Transform firePoint;
     public GameObject[] Veapons; //оружия на руке игрока
     public Image hBar;
+    public AudioSource ak;
     bool isFiring,isHaveBullets,autoFire,ready=true;
     Buttons moyaOrujiya;
     Transform enemy;
@@ -79,6 +80,7 @@ public class PlayerController2d : MonoBehaviour
         rbBullet.AddForce(koeffitsienDvijeniya* firePoint.right * bulletForce, ForceMode2D.Impulse);
         moyaOrujiya.minus1();
         ready=false;
+        ak.Play();
         StartCoroutine(timerPerez());
     }
     public void setAcFire(){
