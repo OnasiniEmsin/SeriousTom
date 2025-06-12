@@ -27587,6 +27587,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   mutanty:
   - {fileID: 5405863792877840235, guid: 31fad90df554aa74eb0060d8bfa73fe9, type: 3}
+  - {fileID: 1518251882180129427, guid: b93f6d20c4ffbe9409edab34e411e8c2, type: 3}
   numberOfEnemies: 3
 --- !u!4 &965407177
 Transform:

@@ -15,7 +15,7 @@ public class InventoryUI : MonoBehaviour
         Application.targetFrameRate = 60;
         for (int i = 0; i < slotCount; i++)
         {
-            addBattn(i);
+            addBattn(i,false);
         }
     }
 
@@ -59,11 +59,11 @@ public class InventoryUI : MonoBehaviour
                 } 
             if(isHave==false) 
             {
-                addBattn(index-1);//Если приобретенного оружия не существует, будет добавлено новое.
+                addBattn(index-1,true);//Если приобретенного оружия не существует, будет добавлено новое.
             }
         }
     }
-    void addBattn(int i){//Add Button => добавляет новую кнопку
+    void addBattn(int i,bool isnew){//Add Button => добавляет новую кнопку
         slotPrefab=slotPrefabs[i];
         Buttons battn = Instantiate(slotPrefab, slotParent).GetComponent<Buttons>();
         battn.setNumber(i);
@@ -71,6 +71,9 @@ public class InventoryUI : MonoBehaviour
         battn.setInventory(this);
         if(i==slotCount-1){
             battn.selected();
+        }
+        if(isnew){
+            battn.extraAmmo();
         }
     }
     

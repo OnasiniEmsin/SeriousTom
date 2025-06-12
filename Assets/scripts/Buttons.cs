@@ -36,6 +36,8 @@ public class Buttons : MonoBehaviour
     public void deleteMe(){
         iUI.deleteTheButton(this);
         Destroy(gameObject);
+        patrony=0;
+        save();
     }
     public void minus1(){
         patrony--;
@@ -72,5 +74,9 @@ public class Buttons : MonoBehaviour
             Debug.Log("yo'q");
             save();
         }
+    }
+    public void extraAmmo(){
+        patrony=30;
+        save();
     }
 }
